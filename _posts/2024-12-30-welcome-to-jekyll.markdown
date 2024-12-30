@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "하이룽"
 date:   2024-12-30 11:54:21 +0900
 categories: jekyll update
 ---
